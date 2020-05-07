@@ -1,0 +1,8 @@
+test:
+    message: Values are from Github
+    list:
+      values: User Registration, Password Reset, Change Password, Registration Confirmation
+db:
+   connection: https://localhost:3310/tablename
+   host: 127.0.0.1
+   port: 3310
